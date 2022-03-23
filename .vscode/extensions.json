@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "abierbaum.vscode-file-peek",
+    "christian-kohler.path-intellisense",
+    "dariofuzinato.vue-peek",
+    "pranaygp.vscode-css-peek",
+    "vincaslt.highlight-matching-tag",
+    "wix.vscode-import-cost",
+    "shd101wyy.markdown-preview-enhanced",
+    "steoates.autoimport",
+    "techer.open-in-browser",
+    "ritwickdey.LiveServer",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "mkxml.vscode-filesize",
+    "naumovs.color-highlight",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "johnsoncodehk.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint"
+  ]
+}
